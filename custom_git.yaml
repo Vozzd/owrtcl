@@ -4,3 +4,5 @@
 # UPDATED: 2026-028-04 11:31:46
 # DOMAIN-SUFFIX: 1
 # TOTAL:1
+payload:
+  - DOMAIN-SUFFIX,wikipedia.org
