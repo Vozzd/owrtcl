@@ -1,8 +1,79 @@
 # NAME: Custom_git
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
-# UPDATED: 2026-028-04 11:31:46
-# DOMAIN-SUFFIX: 1
-# TOTAL:1
+# UPDATED: 2026-028-04 11:44
+# TOTAL:66
 payload:
-  - DOMAIN-SUFFIX,wikipedia.org
+  #AI
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN,api.anthropic.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN,api.openai.com
+  - DOMAIN,chat.openai.com
+  - DOMAIN,platform.openai.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN,api.cursor.sh
+  - DOMAIN-SUFFIX,phind.com
+  - DOMAIN,api.phind.com
+  - DOMAIN-SUFFIX,tabnine.com
+  - DOMAIN,api.tabnine.com
+  - DOMAIN,update.tabnine.com
+  - DOMAIN-SUFFIX,sourcegraph.com
+  - DOMAIN,cody.sourcegraph.com
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN,api.perplexity.ai
+  - DOMAIN-SUFFIX,replit.com
+  - DOMAIN-SUFFIX,firewalledreplit.com
+  - DOMAIN,gemini.google.com
+  - DOMAIN,bard.google.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,huggingface.dev
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN,api.github.com
+  - DOMAIN,copilot.github.com
+  - DOMAIN,codeload.github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN,codewhisperer.us-east-1.console.aws.amazon.com
+  - DOMAIN,console.aws.amazon.com
+  # 📁 Torrents
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.cc
+  - DOMAIN-SUFFIX,nnm-club.me
+  - DOMAIN-SUFFIX,rutor.info
+  - DOMAIN-SUFFIX,fast-torrent.ru
+  - DOMAIN-SUFFIX,tapochek.net
+  - DOMAIN-SUFFIX,mac-torrents.io
+  # 📺 Sharavoz & Kinopub
+  - DOMAIN-SUFFIX,sharavoz.tv
+  - DOMAIN-SUFFIX,sharavoz.space
+  - DOMAIN-SUFFIX,kinopub.tv
+  - DOMAIN-SUFFIX,kinopub.com
+  - DOMAIN-SUFFIX,kino.pub
+  - DOMAIN-SUFFIX,mos-gorsud.site
+  - DOMAIN-SUFFIX,pushbr.com
+  - DOMAIN-SUFFIX,mos-gorsud.site
+  - DOMAIN-SUFFIX,mos-gorsud.co
+  - DOMAIN-SUFFIX,kinopub.online
+  - DOMAIN-SUFFIX,cdn2site.com
+  - DOMAIN-SUFFIX,cdn32.online
+  - DOMAIN-SUFFIX,cdntogo.net
+  - DOMAIN-SUFFIX,pushbr.com
+  - DOMAIN-SUFFIX,zencdn.net
+  - DOMAIN-SUFFIX,cdn32.lol
+  - DOMAIN-SUFFIX,alador.space
+  # Безопасность
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,recaptcha.google.com
+  # Other
+  - DOMAIN-SUFFIX,xdaforums.com
+  - DOMAIN-SUFFIX,ray-ban.com
+  - DOMAIN-SUFFIX,ntc.party
+  - DOMAIN-SUFFIX,amnezia.org
+  - DOMAIN-SUFFIX,4pda.to
+  - DOMAIN-SUFFIX,4pda.com
+  #Parcel trackers
+  - DOMAIN-SUFFIX,17track.net
