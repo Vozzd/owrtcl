@@ -1,8 +1,8 @@
 # NAME: Custom_git
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
-# UPDATED: 2026-028-04 11:50
-# TOTAL:66
+# UPDATED: 2026-029-04 20:03
+# TOTAL:75
 payload:
   #AI
   - DOMAIN-SUFFIX,claude.ai
@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,amnezia.org
   - DOMAIN-SUFFIX,4pda.to
   - DOMAIN-SUFFIX,4pda.com
+  - DOMAIN-SUFFIX,huawei.com
   #Parcel trackers
   - DOMAIN-SUFFIX,17track.net
   #TEST
