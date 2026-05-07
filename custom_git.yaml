@@ -77,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,4pda.com
   - DOMAIN-SUFFIX,huawei.com
   - DOMAIN-SUFFIX,slantmagazine.com
+  - DOMAIN-SUFFIX,kyarucloud.moe
   #Parcel trackers
   - DOMAIN-SUFFIX,17track.net
   #TEST
