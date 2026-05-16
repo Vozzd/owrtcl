@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,zencdn.net
   - DOMAIN-SUFFIX,cdn32.lol
   - DOMAIN-SUFFIX,alador.space
+  - DOMAIN-SUFFIX,smarttvcdn.online
   # Безопасность
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,recaptcha.google.com
