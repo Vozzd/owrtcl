@@ -1,8 +1,8 @@
 # NAME: Custom_git
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
-# UPDATED: 2026-17-05 00:17
-# TOTAL:79
+# UPDATED: 2026-24-05 20:30
+# TOTAL:85
 payload:
   #AI
   - DOMAIN-SUFFIX,claude.ai
@@ -39,6 +39,12 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN,codewhisperer.us-east-1.console.aws.amazon.com
   - DOMAIN,console.aws.amazon.com
+  - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,dashscope.aliyuncs.com
+  - DOMAIN-SUFFIX,qwen.readthedocs.io
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseek-usa.ai
   # 📁 Torrents
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutracker.cc
