@@ -6,6 +6,7 @@
 payload:
   #VPN
   - DOMAIN-SUFFIX,blancvpn.app
+  - DOMAIN-SUFFIX,happ.su
   #AI
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
