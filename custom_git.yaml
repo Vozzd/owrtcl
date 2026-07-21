@@ -1,8 +1,8 @@
 # NAME: Custom_git
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
-# UPDATED: 2026-09-06 00:00
-# TOTAL:87
+# UPDATED: 2026-21-07 16:22
+# TOTAL:88
 payload:
   #VPN
   - DOMAIN-SUFFIX,blancvpn.app
@@ -58,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,mac-torrents.io
   # 📺 Sharavoz & Kinopub
   - DOMAIN-SUFFIX,sharavoz.tv
+  - DOMAIN-SUFFIX,sharavoz.dev
   - DOMAIN-SUFFIX,sharavoz.space
   - DOMAIN-SUFFIX,kinopub.tv
   - DOMAIN-SUFFIX,kinopub.com
