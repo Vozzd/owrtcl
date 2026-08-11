@@ -1,7 +1,7 @@
 # NAME: Custom_git
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
-# UPDATED: 10-08-2026-11 22:30
+# UPDATED: 11-08-2026-11 23:25
 # TOTAL:88
 payload:
   #VPN
@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,kinopub.com
   - DOMAIN-SUFFIX,kino.pub
   - DOMAIN-SUFFIX,kino.watch
+  - DOMAIN-SUFFIX,cdn-service.space
   - DOMAIN-SUFFIX,la-in-f188.1e100.net
   - DOMAIN-SUFFIX,lo-in-f94.1e100.net
   - DOMAIN-SUFFIX,lu-in-f113.1e100.net
