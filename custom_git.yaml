@@ -2,7 +2,7 @@
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
 # UPDATED: 12-08-2026-11 19:08
-# TOTAL:88
+# TOTAL:96
 payload:
   #VPN
   - DOMAIN-SUFFIX,blancvpn.app
