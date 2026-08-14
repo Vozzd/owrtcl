@@ -1,13 +1,15 @@
 # NAME: Custom_git
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
-# UPDATED: 12-08-2026-11 19:10
-# TOTAL:93
+# UPDATED: 14-08-2026-11 19:10
+# TOTAL:96
 payload:
   #VPN
   - DOMAIN-SUFFIX,blancvpn.app
   - DOMAIN-SUFFIX,happ.su
   - DOMAIN-SUFFIX,withblancvpn.online
+  #PocketBook
+  - DOMAIN-SUFFIX, sync.pocketbook-int.com
   #AI
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
