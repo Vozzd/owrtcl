@@ -1,8 +1,8 @@
 # NAME: Custom_git
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
-# UPDATED: 14-08-2026-11 19:10
-# TOTAL:96
+# UPDATED: 15-08-2026-11 14:10
+# TOTAL:103
 payload:
   #VPN
   - DOMAIN-SUFFIX,blancvpn.app
@@ -109,3 +109,11 @@ payload:
   #TEST
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,y2mate.com
+  #BIP messanger
+  - DOMAIN-SUFFIX,bip.com
+  - DOMAIN-SUFFIX,bipapp.com
+  - DOMAIN-SUFFIX,bip.to
+  - DOMAIN-SUFFIX,bipimg.com
+  - DOMAIN-SUFFIX,bipstatic.com
+  - DOMAIN-SUFFIX,bipcdn.com
+  - DOMAIN-SUFFIX,turkcell.com.tr
