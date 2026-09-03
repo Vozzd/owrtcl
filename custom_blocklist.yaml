@@ -3,5 +3,5 @@
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
 # UPDATED: 03.09.2026 17:16
 # TOTAL:0
-payload:
-  - DOMAIN-SUFFIX,blackmagicdesign.com
+#payload:
+  #- DOMAIN-SUFFIX,blackmagicdesign.com
