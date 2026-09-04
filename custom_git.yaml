@@ -1,8 +1,8 @@
 # NAME: CustomSet
 # AUTHOR: Vozzd
 # REPO: https://github.com/Vozzd/owrtcl/blob/main/custom_git.yaml
-# UPDATED: 15-08-2026-11 14:10
-# TOTAL:103
+# UPDATED: 04-09-2026-11 11:48
+# TOTAL:100
 payload:
   #VPN
   - DOMAIN-SUFFIX,blancvpn.app
@@ -11,9 +11,6 @@ payload:
   #PocketBook
   - DOMAIN-SUFFIX, sync.pocketbook-int.com
   #AI
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN,api.anthropic.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,api.openai.com
   - DOMAIN,chat.openai.com
